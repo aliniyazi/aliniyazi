@@ -4,6 +4,4 @@
 - 🔭 I’m currently working on very interesting things :thinking: 
 - 🌱 I’m currently learning everything :rofl: 
 - 📫 How to reach me: aliniyazii1999@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
 
