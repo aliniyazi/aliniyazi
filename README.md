@@ -25,4 +25,4 @@ align="left">
 
 ### Stats:
 
-[![Ali Niyazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliniyazi)](https://github.com/aliniyazi/github-readme-stats)
+[![Ali Niyazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliniyazi&theme=dark)](https://github.com/aliniyazi/github-readme-stats)
