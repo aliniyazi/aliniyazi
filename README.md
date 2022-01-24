@@ -23,8 +23,4 @@ align="left">
 </p>
 <br />
 ### Stats:
-<p 
-   align="left"
-   [![Ali Niyazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliniyazi)](https://github.com/aliniyazi/github-readme-stats)>
-</p>
-
+[![Ali Niyazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliniyazi)](https://github.com/aliniyazi/github-readme-stats)
