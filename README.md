@@ -30,7 +30,7 @@ align="left">
 
 ### Stats:
 
-<p align="left">
+<p align=left>
   
   [![Ali Niyazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliniyazi&theme=algolia)](https://github.com/aliniyazi/github-readme-stats)
 
