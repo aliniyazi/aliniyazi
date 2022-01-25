@@ -33,6 +33,8 @@ align="left">
 [![Ali Niyazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliniyazi&theme=algolia)](https://github.com/aliniyazi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliniyazi&layout=compact&theme=algolia)](https://github.com/aliniyazi/github-readme-stats)
 
+<hr/>
+
 ### Summary card
 
 ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliniyazi&theme=monokai)
