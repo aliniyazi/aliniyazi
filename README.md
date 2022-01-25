@@ -39,8 +39,10 @@ align=center>
 </p>
 
 <div style="display: flex; justify-content: space-between;">
+  
   <p> [![Ali Niyazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliniyazi&theme=algolia)](https://github.com/aliniyazi/github-readme-stats) </p>
   <p> [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliniyazi&layout=compact&theme=algolia)](https://github.com/aliniyazi/github-readme-stats) </p>
+  
 </div>
   
 <hr/>
