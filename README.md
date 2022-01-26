@@ -8,9 +8,17 @@
 
 <hr/>
 
-### Languages and Tools:
+<p align="center"> 
+	
+### Languages and Tools:	
+	
+</p>
+
 <p 
 align="center"> 
+	
+### Languages and Tools:
+	
 <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a>
 <a href="https://angular.io" target="_blank" rel="noreferrer"> <img src="https://angular.io/assets/images/logos/angular/angular.svg" alt="angular" width="40" height="40"/> </a> <a href="https://azure.microsoft.com/en-in/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/microsoft_azure/microsoft_azure-icon.svg" alt="azure" width="40" height="40"/> </a> 
 <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> 
@@ -44,7 +52,11 @@ align="center">
 
 ### Summary card
 
-![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliniyazi&theme=monokai)
+<p align=center>
+   <div align=center>	
+   ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliniyazi&theme=monokai)
+   </div>
+</p>
 
 
 
