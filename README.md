@@ -52,7 +52,7 @@ align="center">
 <p align=center>
    <div align=center>	
 	   
-   ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliniyazi&theme=algolia)
+   ![Summary Card](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aliniyazi&theme=solarized_dark)
 	   
    </div>
 </p>
