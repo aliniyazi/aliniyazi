@@ -39,12 +39,11 @@ align=center>
 
 </p>
 
-
-<div align=center>
-	
-		[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliniyazi&theme=algolia)](https://git.io/streak-stats)
-	
-	</div>
+<p align=center>
+   <div align=center>	
+	[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliniyazi&theme=algolia)](https://git.io/streak-stats)
+   </div>
+</p>
   
 <hr/>
 
