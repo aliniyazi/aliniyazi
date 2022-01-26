@@ -35,6 +35,7 @@ align=center>
   
 [![Ali Niyazi's GitHub stats](https://github-readme-stats.vercel.app/api?username=aliniyazi&theme=algolia)](https://github.com/aliniyazi/github-readme-stats)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aliniyazi&layout=compact&theme=algolia)](https://github.com/aliniyazi/github-readme-stats)
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliniyazi&theme=algolia)](https://git.io/streak-stats)
 
 </p>
 
