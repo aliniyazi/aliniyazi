@@ -8,7 +8,7 @@
 
 <hr/>
 
-<p align="center">
+<p align=center>
 	
 ### Languages and Tools:
 	
