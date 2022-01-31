@@ -53,7 +53,7 @@ align="center">
   
 <hr/>
 
-### Summary card
+### Summary card: 
 
 <p align=center>
    <div align=center>	
