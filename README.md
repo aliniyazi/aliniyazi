@@ -41,7 +41,7 @@ align="center">
 
 	<p align="center">
 		
-	<div align=center>
+		<div align=center>
 			
 			### Stats:
 			
