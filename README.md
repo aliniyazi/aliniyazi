@@ -40,13 +40,11 @@ align="center">
 <hr/>
 
 	<p align="center">
-		
-		<div align=center>
+	<div align=center>
 			
 			### Stats:
 			
 	</div>
-	
 	</p>
 ### Stats:
   
