@@ -39,6 +39,13 @@ align="center">
 <!--- Github Stats -->
 <hr/>
 
+	<p align="center">
+		<div align=center>
+			
+			### Stats:
+			
+	</div>
+	</p>
 ### Stats:
   
 <p align=center>
